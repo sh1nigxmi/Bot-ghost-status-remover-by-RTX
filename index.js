@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["/report - жалоба"];
+const statusMessages = ["Нашли нарушителя? /report - жалоба"];
 
 
 let currentIndex = 0;
