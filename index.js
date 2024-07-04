@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Возникли вопросы? /помощь - вопрос"];
+const statusMessages = ["Проходи верифку и залетай на сервер!"];
 
 
 let currentIndex = 0;
